@@ -25,7 +25,7 @@ class MainWindow(ctk.CTk):
     def __init__(self) -> None:
         super().__init__()
 
-        self.title("دستیار هوش مصنوعی | AI Assistant")
+        self.title("امیرحسین بخشی | دستیار هوش مصنوعی")
         self.geometry("1000x700")
         self.minsize(800, 550)
 
