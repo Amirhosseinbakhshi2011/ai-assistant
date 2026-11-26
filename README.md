@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # دستیار هوش مصنوعی (AI Assistant)
 
 یک دستیار هوش مصنوعی دسکتاپ مدرن، ماژولار و قابل توسعه نوشته‌شده با Python.
@@ -39,3 +40,6 @@ source venv/bin/activate
 
 # نصب وابستگی‌ها
 pip install -r requirements.txt
+=======
+# ai-assistant
+>>>>>>> 3e93e86636e5d9dce684b6ed410caf9c9091ab6a
